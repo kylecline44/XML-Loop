@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Data Connection"
+  DTS:DTSID="{CE432A43-5E83-4D9F-BF8D-834C950365A8}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Initial Catalog=Loan_Origination_System;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-XML Loop-{CE432A43-5E83-4D9F-BF8D-834C950365A8}Data Connection;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
